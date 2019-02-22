@@ -1,0 +1,1 @@
+# javascript_Datatype_check
